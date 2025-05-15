@@ -1,0 +1,6 @@
+# Example domains to check for blocking
+example.com
+netflix.com
+youtube.com
+facebook.com
+twitter.com
